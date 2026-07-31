@@ -51,3 +51,5 @@
 - Any set of $M \le N$ vectors in $R^N$ could be linearly independent. 
 
 # Basis
+- A basis is the combination of span and independence : A set of vectors {$v_1,v_2,...,v_n$} forms a basis for some subspace of $R^N$ if it (1) spans the subspace and (2) is an independent set of vectors.
+- There could be infinitely many bases for a subspace.
